@@ -1,0 +1,41 @@
+@import "../template";
+@import "../vars";
+
+.clients {
+    background-color: $background-gray-color;
+    color: $background-dark-color;
+    .container{
+        min-height: 478px;
+        padding: 30px;
+        .clients-container__flex-items-for-title {
+            padding-top: 70px;
+            .flex-item-for-title {
+                &__title {
+                    margin-bottom: 1px;
+                    @include title-style(
+                        $font-family,
+                        2.5rem,
+                        600,
+                        $background-dark-color
+                    );
+                }
+        
+                &__underline {
+                    margin-bottom: 20px;
+                    max-width: 363px;
+                    border: none;
+                    border-radius: 10px;
+                    border-top: 5px solid $accent-color;
+                }
+            }
+        }
+        .clients-container__flex-items-logos {
+            padding: 60px;
+            display: flex;
+            flex-wrap: wrap;
+            column-gap: 20px;
+            row-gap: 20px;
+            align-items: center;
+        }
+    }
+}
