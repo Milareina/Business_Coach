@@ -1,0 +1,56 @@
+@import "../template";
+@import "../vars";
+
+.education {
+    background-color: $background-dark-color;
+    color: $text-color;
+    .container {
+        min-height: 456px;
+        padding: 30px;
+        .education-container__flex-items-for-title {
+            padding-top: 70px;
+            .flex-item-for-title{
+            &__title {
+                margin-bottom: 1px;
+                @include title-style(
+                    $font-family,
+                    2.5rem,
+                    600,
+                    $text-color
+                    );
+            }
+    
+            &__underline {
+                margin-bottom: 20px;
+                max-width: 363px;
+                border: none;
+                border-radius: 10px;
+                border-top: 5px solid $accent-color;
+            }
+        }
+        }
+        .education-container__flex-items-certificates {
+            display: flex;
+            flex-wrap: wrap;
+            row-gap: 20px;
+            column-gap: 20px;
+            .flex-item-certificate {
+                max-height: 210px;
+                max-width: 285px;
+                min-width: 140px;
+                img {
+                    height: 100%;
+                    width: 100%;
+                }
+                &--small {
+                    max-width: 140px;
+                    max-height: 210px;
+                img {
+                    height: 100%;
+                    width: 100%;
+                }
+                }
+            }
+        }
+    }
+}
