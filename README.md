@@ -64,6 +64,8 @@ Tester, Frontend Developer </br>
 ## Project Description
 This project is a website for business mentor and PCC ICF coach Dmitry Volovikov. The site is designed to attract clients who need help in preparing their heir to manage a business.
 
+<img width="1440" alt="Снимок экрана 2025-01-03 в 15 11 36" src="https://github.com/user-attachments/assets/a1d942a8-8abe-4958-a9ef-7753a70ef2c7" />
+
 ## Main Features
 - Information about coaching services
 - Target audience description
