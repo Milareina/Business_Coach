@@ -1,3 +1,9 @@
+<div align="right">
+  <a href="#english-version">🇬🇧 English</a> | <a href="#russian-version">🇷🇺 Русский</a>
+</div>
+
+<div id="russian-version">
+  
 # Business Coach - Сайт бизнес-ментора
 
 ## Описание проекта
@@ -41,5 +47,48 @@ https://github.com/user-attachments/assets/1cb70f8e-904f-43ff-9443-a65fb92d5821
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=5A03FC&center=true&vCenter=true&width=600&lines=%D0%A1%D0%BF%D0%B0%D1%81%D0%B8%D0%B1%D0%BE+%D0%B7%D0%B0+%D0%B2%D0%B0%D1%88+%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81!" alt="Спасибо за ваш интерес!" />
 </p>
+</div>
 
+<div id="english-version">
+
+# Business Coach - Business Mentor Website
+
+## Development Team
+
+Team Lead, Frontend Developer </br>
+[![GitHub](https://img.shields.io/badge/GitHub-Milareina-181717?style=for-the-badge&logo=github)](https://github.com/Milareina) 
+
+Tester, Frontend Developer </br>
+[![GitHub](https://img.shields.io/badge/GitHub-Olya7me-181717?style=for-the-badge&logo=github)](https://github.com/Olya7me) 
+
+## Project Description
+This project is a website for business mentor and PCC ICF coach Dmitry Volovikov. The site is designed to attract clients who need help in preparing their heir to manage a business.
+
+## Main Features
+- Information about coaching services
+- Target audience description
+- Detailed work plan
+- Contact information
+- Responsive design
+
+## Technologies
+- HTML5
+- CSS3
+- Responsive design
+- Mobile optimization
+
+## Features
+- Modern and clean design
+- Responsive layout for all devices
+- Intuitive navigation
+- Optimized code structure
+
+## 📝 Customer Feedback
+
+https://github.com/user-attachments/assets/1cb70f8e-904f-43ff-9443-a65fb92d5821
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=5A03FC&center=true&vCenter=true&width=600&lines=Thank+you+for+your+interest!" alt="Thank you for your interest!" />
+</p>
+</div>
 
