@@ -21,14 +21,14 @@ Team Lead, Frontend разработчик </br>
 
 
 
-## Основные функции
+## 🚀Основные функции
 - Информация о коучинговых услугах
 - Описание целевой аудитории
 - Детальный план работы
 - Контактная информация
 - Адаптивный дизайн
 
-## Технологии
+## 🛠Технологии
 - HTML5
 - CSS3
 - Адаптивная верстка
@@ -44,7 +44,7 @@ Team Lead, Frontend разработчик </br>
 
 1. Клонируйте репозиторий:
 ```bash
-git clone 
+git clone https://github.com/Milareina/Business_Coach.git
 ```
 2. Запустите приложение с помощью Live Server.
 
@@ -75,14 +75,14 @@ This project is a website for business mentor and PCC ICF coach Dmitry Volovikov
 
 <img width="1440" alt="Снимок экрана 2025-01-03 в 15 11 36" src="https://github.com/user-attachments/assets/a1d942a8-8abe-4958-a9ef-7753a70ef2c7" />
 
-## Main Features
+## 🚀Main Features
 - Information about coaching services
 - Target audience description
 - Detailed work plan
 - Contact information
 - Responsive design
 
-## Technologies
+## 🛠Technologies
 - HTML5
 - CSS3
 - Responsive design
@@ -94,10 +94,10 @@ This project is a website for business mentor and PCC ICF coach Dmitry Volovikov
 - Intuitive navigation
 - Optimized code structure
 
-##  Installation and Launch
+##  🚀Installation and Launch
 1. Clone the repository:
 ```bash
-git clone 
+git clone https://github.com/Milareina/Business_Coach.git
 ```
 2.Launch the application using Live Server.
 
