@@ -4,14 +4,14 @@
 
 <div id="russian-version">
   
-# Business Coach - Сайт бизнес-ментора
+# 💼Business Coach - Сайт бизнес-ментора
 
-## Описание проекта
+## 📄Описание проекта
 Этот проект представляет собой веб-сайт для бизнес-ментора и коуча PCC ICF Дмитрия Воловикова. Сайт создан для привлечения клиентов, которым требуется помощь в подготовке наследника к управлению бизнесом.
 
 <img width="1440" alt="Снимок экрана 2025-01-03 в 15 11 36" src="https://github.com/user-attachments/assets/a1d942a8-8abe-4958-a9ef-7753a70ef2c7" />
 
-## Команда разработчиков
+## 👥Команда разработчиков
 
 Team Lead, Frontend разработчик </br>
 [![GitHub](https://img.shields.io/badge/GitHub-Milareina-181717?style=for-the-badge&logo=github)](https://github.com/Milareina) 
@@ -34,7 +34,7 @@ Team Lead, Frontend разработчик </br>
 - Адаптивная верстка
 - Мобильная оптимизация
 
-## Особенности
+## 🌟Особенности
 - Современный и чистый дизайн
 - Адаптивная верстка для всех устройств
 - Интуитивно понятная навигация
@@ -60,9 +60,9 @@ https://github.com/user-attachments/assets/1cb70f8e-904f-43ff-9443-a65fb92d5821
 
 <div id="english-version">
 
-# Business Coach - Business Mentor Website
+# 💼Business Coach - Business Mentor Website
 
-## Development Team
+## 👥Development Team
 
 Team Lead, Frontend Developer </br>
 [![GitHub](https://img.shields.io/badge/GitHub-Milareina-181717?style=for-the-badge&logo=github)](https://github.com/Milareina) 
@@ -70,7 +70,7 @@ Team Lead, Frontend Developer </br>
 Tester, Frontend Developer </br>
 [![GitHub](https://img.shields.io/badge/GitHub-Olya7me-181717?style=for-the-badge&logo=github)](https://github.com/Olya7me) 
 
-## Project Description
+## 📄Project Description
 This project is a website for business mentor and PCC ICF coach Dmitry Volovikov. The site is designed to attract clients who need help in preparing their heir to manage a business.
 
 <img width="1440" alt="Снимок экрана 2025-01-03 в 15 11 36" src="https://github.com/user-attachments/assets/a1d942a8-8abe-4958-a9ef-7753a70ef2c7" />
@@ -88,7 +88,7 @@ This project is a website for business mentor and PCC ICF coach Dmitry Volovikov
 - Responsive design
 - Mobile optimization
 
-## Features
+## 🌟Features
 - Modern and clean design
 - Responsive layout for all devices
 - Intuitive navigation
