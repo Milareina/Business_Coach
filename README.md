@@ -40,6 +40,15 @@ Team Lead, Frontend разработчик </br>
 - Интуитивно понятная навигация
 - Оптимизированная структура кода
 
+## 🚀 Установка и запуск
+
+1. Клонируйте репозиторий:
+```bash
+git clone 
+```
+2. Запустите приложение с помощью Live Server.
+
+
 ## 📝 Отзыв заказчика
 
 https://github.com/user-attachments/assets/1cb70f8e-904f-43ff-9443-a65fb92d5821
@@ -84,6 +93,13 @@ This project is a website for business mentor and PCC ICF coach Dmitry Volovikov
 - Responsive layout for all devices
 - Intuitive navigation
 - Optimized code structure
+
+##  Installation and Launch
+1. Clone the repository:
+```bash
+git clone 
+```
+2.Launch the application using Live Server.
 
 ## 📝 Customer Feedback
 
